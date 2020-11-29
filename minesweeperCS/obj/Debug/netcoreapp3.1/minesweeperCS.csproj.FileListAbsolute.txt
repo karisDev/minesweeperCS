@@ -1,0 +1,13 @@
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\bin\Debug\netcoreapp3.1\minesweeperCS.exe
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\bin\Debug\netcoreapp3.1\minesweeperCS.deps.json
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\bin\Debug\netcoreapp3.1\minesweeperCS.runtimeconfig.json
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\bin\Debug\netcoreapp3.1\minesweeperCS.runtimeconfig.dev.json
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\bin\Debug\netcoreapp3.1\minesweeperCS.dll
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\bin\Debug\netcoreapp3.1\minesweeperCS.pdb
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.csprojAssemblyReference.cache
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.AssemblyInfoInputs.cache
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.AssemblyInfo.cs
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.csproj.CoreCompileInputs.cache
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.dll
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.pdb
+C:\Users\azert\source\repos\minesweeperCS\minesweeperCS\obj\Debug\netcoreapp3.1\minesweeperCS.genruntimeconfig.cache
